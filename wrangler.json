@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "polished-lake-2441",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "dbe96678-4c0d-4206-a44a-eb151a8d9bf6",
+      "database_name": "wild-cloud-e91b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
